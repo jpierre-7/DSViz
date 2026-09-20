@@ -1,0 +1,4 @@
+File Name: greetings.txt
+Author: John Pierre
+Date: 09/19/2026
+Welcome to Data Visualization Class
